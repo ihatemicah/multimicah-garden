@@ -17,6 +17,8 @@ my garden so far:
 <br>
 [[2022 quotes & insights]]
 <br>
+[[learning guides]]
+<br>
 <br>
 want to learn how to make this? [check out this repo](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
