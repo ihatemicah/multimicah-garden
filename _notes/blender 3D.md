@@ -6,6 +6,9 @@ title: blender 3d
 I often get asked what's the best way to learn Blender, and my next question to them would be **what style are you trying to grow into?**
 <br>
 So, I'm going to continously update this page based on the best resources to learn a specific style as I continue to grow my knowledge as well. 
+<br>
+
+list help grown by [Gabriel Webb](https://twitter.com/_gabrielwebb)
 
 ---
 <img src="https://d2w9rnfcy7mm78.cloudfront.net/3609425/original_38e7dd581ff7365db1bd598e9c4f9d00.gif?1549788539?bc=1" style="width:40%;">
@@ -24,6 +27,9 @@ Whenever I'm looking for new resources within this category, the keywords are "c
 <br>
 
 [Dimension Diving](https://www.youtube.com/channel/UCdN9Y3iEA7HBUizGElZUGiQ/videos) - I've seen some great tutorials on spiral's and just overall loops. 
+<br>
+
+[NENGHUO](https://www.youtube.com/channel/UC_fW5kDU85g-xaBxW7U2gfw) - "Abstract and procedural content. very trippy vibes all Geometry Nodes stuff"
 <br>
 
 ---
@@ -50,6 +56,12 @@ now, we've all seen the cool clean 3D objects that have a level of abstraction t
 <br>
 
 [G.E.T Tutorials](https://www.youtube.com/c/GETTUTORIALS123/videos) - Amazing repo of just pure abstract animations and figures. 
+<br>
+
+[Intranet Girl](https://www.youtube.com/c/intranetgirlx) - y2kish but lots of great content. Her workflow video on recreating a liminal space is golden
+<br>
+
+[fxntile](https://www.youtube.com/channel/UCahwpVya4NSwFYISMx7SRRw) - y2k-esque chrome design. small channel with large IG presence. 
 
 ---
 
@@ -78,6 +90,9 @@ do you want to make little character animations and stuff? (I have yet to dive i
 <br>
 
 [Nicky Blender](https://www.youtube.com/channel/UCv0KJq-wlxuWROdqfTe12GA) - there's some of those cute isometric house tutorials + some neat kawaii characters
+<br>
+
+[Keelan Jon](https://www.youtube.com/c/KeelanJonathan) - "really good stuff around the popular 3D Character style thats big right now with rounded feature as well as some 3D Illustration work"
 
 ---
 *sections to add (ps1 / low voxel , kawaii small rooms , international channels, still a lot of organizing 🤔)*
